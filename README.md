@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CindCodes/IBM-Data-Analyst-Capstone/blob/main/Graphics/title-page.jpg" alt="Introduction-Banner" title="Introduction">
+<img src="https://github.com/CindCodes/IBM-Data-Analyst-Capstone/blob/main/Graphics/title-page.jpg" width="600" height="400" alt="Introduction-Banner" title="Introduction">
 </p>
 
 # Scenario
